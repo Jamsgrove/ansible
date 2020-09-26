@@ -1,0 +1,8 @@
+---
+vlans:
+  10:
+    name: management
+  50:
+    name: cust-1
+  60:
+    name: cust-2

@@ -1,0 +1,7 @@
+---
+- name: Configure devices
+  hosts: all
+  connection: local
+
+  roles:
+    - nz_isp

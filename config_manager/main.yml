@@ -1,0 +1,6 @@
+---
+- name: Generate configurations
+  hosts: all
+  connection: local
+
+- include: tasks/def_roles.yml

@@ -1,0 +1,8 @@
+---
+os: junos
+model: vsrx
+sitecode: chch
+management_ip: 172.168.1.10
+snmp:
+  location: Christchurch basement
+  version: 2
